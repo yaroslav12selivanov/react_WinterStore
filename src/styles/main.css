@@ -1,1 +1,3 @@
-/*# sourceMappingURL=main.css.map */
+@import url("./blocks/header/_header.module.scss");
+@import url("./blocks/_reset.scss");
+@import url("./blocks/configs/_settings.scss");/*# sourceMappingURL=main.css.map */

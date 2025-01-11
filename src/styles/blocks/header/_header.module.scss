@@ -1,0 +1,29 @@
+.header__up {
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .header__left {
+        .header__left__menu__list {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+    }
+
+    .link {
+        padding: 10px;
+    }
+    
+    .header__right {
+        .header__right__list {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+    }
+}
